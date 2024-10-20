@@ -1,0 +1,17 @@
+.counter-container{
+  text-align:center
+}
+
+.count-display{
+  font-size: 10em;
+  margin: 10px 0;
+}
+
+.counter-button{
+  width: 150px;
+  height: 30px;
+  margin-right: 10px;
+  background-color: aquamarine;
+  border: 2px solid Black;
+  border-radius: 10px;
+}

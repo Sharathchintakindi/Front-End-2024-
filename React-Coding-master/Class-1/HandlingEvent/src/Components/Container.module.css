@@ -1,0 +1,14 @@
+.container{
+border: 1px solid black;
+margin: 15px;
+width: 50%;
+border-radius: 2%;
+min-width: 200px;
+padding: 15px;
+}
+
+.list-group{
+  color: Green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}

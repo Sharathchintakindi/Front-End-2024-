@@ -1,0 +1,14 @@
+useEffect() : The useEffect hook allows you to perform side effects in your components
+
+Some of them are: fetching data, directly updating the DOM, timers
+
+It allows you to do some Code
+    * This components re-renders
+    * This component mounts
+    * This component of a value
+
+useEffect(function,[dependecies])
+
+useEffect(()=>{})  ---- Runs after every re-render
+useEffect(()=>{},[])  ----Runs only one mount
+useEffect(()=>{},[value])  ----Runs after mount + value changes 

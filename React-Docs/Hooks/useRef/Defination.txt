@@ -1,0 +1,8 @@
+useRef() = its dosesn't cause re-renders when its value changes.when you want a component to "remember" some info but you don't want that info to trigger new renders
+
+Usage: 
+      Accessing / interacting with DOM elements
+      Handling Focus, Animations, Transisitions
+      Managing timers and intervals
+
+  

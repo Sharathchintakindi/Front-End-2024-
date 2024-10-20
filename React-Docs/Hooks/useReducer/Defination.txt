@@ -1,0 +1,4 @@
+useReducer: This is used for the state mangement 
+            It is related to the reducer functions
+            useReducer(reducer,intialState)
+            reducer(currentSate,action)

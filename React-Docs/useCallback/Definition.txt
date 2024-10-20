@@ -1,0 +1,14 @@
+useCallback is a react hook that lets you cache a function definition between re-renders
+
+const catchedFn = useCallback(fn,dependencies)
+
+Usage : Skipping the component for re-renders
+        Updating the state from memiozed callback
+
+UseCallback hook returns a memoized callback function
+
+the useCallback hook runs only when one of its dependencies update
+
+the major difference between the useCallback and useMemo :
+useCallback returns the memoized function
+useMemo returns the memoized value
